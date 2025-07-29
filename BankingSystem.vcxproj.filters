@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Classes\clsManageUsers.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsAddNewClientScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsAddNewUserScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsBankClient.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsCurrenciesListScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsCurrencyCalculatorScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsCurrencyExchangeMainScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsDate.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsDeleteUserScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsDepositScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsPerson.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsString.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsTransactionsScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsTransferScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsUpdateUserScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsUsersListScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\clsWithdrawScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\ShowFindClientScreen.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes\clsAddNewClientScreen.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsBankClient.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsClientListScreen.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsDeleteClientScreen.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\ShowFindClientScreen.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsPerson.h">
+      <Filter>Persons</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsAddNewUserScreen.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsCurrencyCalculatorScreen.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsCurrencyExchangeMainScreen.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsCurrency.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsCurrenciesListScreen.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsDeleteUserScreen.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsFindCurrancyScreen.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsFindUserScreen.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUser.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUsersListScreen.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsDate.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsDepositScreen.h">
+      <Filter>Deposition</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsString.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsWithdrawScreen.h">
+      <Filter>Withdrawal</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsValidInput.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUtil.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUpdateUserScreen.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUpdateCurrancyRateScreen.h">
+      <Filter>Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsUpdateClientScreen.h">
+      <Filter>Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsTransferScreen.h">
+      <Filter>Transactions</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsTransferLogScreen.h">
+      <Filter>Transactions</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsTransactionsScreen.h">
+      <Filter>Transactions</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsTotalBalancesScreen.h">
+      <Filter>Transactions</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsManageUsers.h">
+      <Filter>Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsLoginScreen.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsLoginRegisterScreen.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsMainScreen.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\clsScreen.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Clients">
+      <UniqueIdentifier>{48a02bb7-6988-44c9-bdfd-968f76708c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Persons">
+      <UniqueIdentifier>{f10f4e74-3462-475a-9f71-f8eda79bf776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Users">
+      <UniqueIdentifier>{9faef8fc-8382-4419-ad36-d7f00dbe6e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Currencies">
+      <UniqueIdentifier>{37fa57a1-09fb-4ea2-816a-cc48cde05bce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{280cbe9a-fa90-4a97-a44c-3eac0269ff9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{6528ab31-191a-4613-9783-7767dc6476fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Global">
+      <UniqueIdentifier>{7e3166da-3e4a-4213-a6f9-3fa4473d4c3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Deposition">
+      <UniqueIdentifier>{72590257-f63c-4177-998e-fa44c20091a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Withdrawal">
+      <UniqueIdentifier>{43f7adc3-5394-4e3d-a1f8-fef083add0b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Transactions">
+      <UniqueIdentifier>{65d31ccc-700c-46db-8184-2ea6b107020f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
